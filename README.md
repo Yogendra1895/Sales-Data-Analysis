@@ -34,7 +34,11 @@ This analysis enables Electro Hub to optimize product strategies, promotions, in
 - Step 6 : Adding new column "Total_sales" to the transactions_table.
 
         Total_Sales = unit_sold * Price_per_unit
-- Step 7 : Adding new column "Discount_percentage" using Merge operation.  
+- Step 7 : Adding new column "Discount_percentage" using Merge operation.
+
+- Snap of Discount_percentage column :
+- <img width="168" height="262" alt="Discount Percentage" src="https://github.com/user-attachments/assets/cfe6df4f-6523-42b1-b64c-e1f09b9a5b21" />
+
 - Step 8 : Create new column "Discount".
 
         Discount = (Total_Sales * Discount_percentage) /100
@@ -80,12 +84,12 @@ In our dataset, Some parameters were assigned value 0, in the Promotions_table r
          4). total_amnt = SUM('Transactions'[Net Sales]) 
 
         
-A card visual was used to count total orders.
+- Step 14 : A card visual was used to count total orders.
 
 <img width="302" height="106" alt="Total Orders" src="https://github.com/user-attachments/assets/84388755-6072-4ee2-aa72-cdf6ee06e5bb" />
 
  
- - Step 14 : The report was then published to Power BI Service.
+ - Step 15 : The report was then published to Power BI Service.
  
  
 
