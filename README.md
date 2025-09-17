@@ -90,12 +90,21 @@ A card visual was used to count total orders.
  
 
 # Snapshot of Dashboard 
+## Overview
 
 <img width="1366" height="667" alt="Snap" src="https://github.com/user-attachments/assets/027aabe0-1404-4884-b938-d32219ad8353" />
 
-<img width="911" height="499" alt="Top Products" src="https://github.com/user-attachments/assets/4197a5a7-45e7-4f11-b2dd-4bc4951d441e" />
+## Top/Bottom 5 Products
 
-<img width="964" height="527" alt="Table" src="https://github.com/user-attachments/assets/2e6695e6-a31b-45d1-a283-cf8340391f63" />
+<img width="1360" height="644" alt="Top" src="https://github.com/user-attachments/assets/fd1e7f82-0345-4cb7-af17-6af2134a82f5" />
+
+## Sales/Profit/Quantity - Edit Interaction
+
+<img width="1365" height="641" alt="page3" src="https://github.com/user-attachments/assets/82196130-f3f6-4f99-b9f9-d23a1b6f3cf5" />
+
+## Table Summary
+
+<img width="1363" height="647" alt="page 4" src="https://github.com/user-attachments/assets/9a996f26-5e40-48f9-8d81-54b5ed98e525" />
 
 
 
