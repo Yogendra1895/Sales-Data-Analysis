@@ -36,8 +36,8 @@ This analysis enables Electro Hub to optimize product strategies, promotions, in
         Total_Sales = unit_sold * Price_per_unit
 - Step 7 : Adding new column "Discount_percentage" using Merge operation.
 
-- Snap of Discount_percentage column :
-- <img width="168" height="262" alt="Discount Percentage" src="https://github.com/user-attachments/assets/cfe6df4f-6523-42b1-b64c-e1f09b9a5b21" />
+ Snap of Discount_percentage column :
+ <img width="168" height="262" alt="Discount Percentage" src="https://github.com/user-attachments/assets/cfe6df4f-6523-42b1-b64c-e1f09b9a5b21" />
 
 - Step 8 : Create new column "Discount".
 
